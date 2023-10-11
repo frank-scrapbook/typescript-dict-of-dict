@@ -15,4 +15,4 @@ interface Environments {
   [environment: string]: Environment;
 }
 
-export { EventRuleConfig, Environment, Environments };
+export { EventRuleConfig, Environment, Environments }
