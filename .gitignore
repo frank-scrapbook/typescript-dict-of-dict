@@ -3,8 +3,9 @@ node_modules
 package-lock.json
 
 # Type Declaration Files
-src/**/*.d.ts
+src/*.d.ts
 
 
 # TS to JS Compiled Files
-src/**/*.js
+**/*.js
+**/*.spec.js
